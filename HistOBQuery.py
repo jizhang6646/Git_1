@@ -14,4 +14,5 @@ historical_orderbooks = client.get_historical_orderbooks(
     10
 )
 
+print(public_key)
 
